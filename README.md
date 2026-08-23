@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Gupta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Gupta" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <br />
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Deeppakk15/Deeppakk15/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
@@ -45,36 +45,4 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
----
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 💼 **[Employee Management System](https://github.com/Deeppakk15/employee-management-system)** | LMS featuring role-based auth for admins & employees with local storage persistence. | `React` `Tailwind CSS` `Context API` |
-| 🎵 **[StreamBeat](https://github.com/Deeppakk15/StreamBeat)** | Full-stack music streaming platform with image/audio uploads, JWT auth & CDN integration. | `Node.js` `Express` `MongoDB` `ImageKit` |
-| 🛒 **[Vite Shop](https://github.com/Deeppakk15/vite-shop)** | E-commerce web application with CRUD product management & persistent local storage. | `React` `Tailwind CSS` `React Router` |
-| 🔍 **[GitHub Profile Finder](https://github.com/Deeppakk15/GitHub-Profile-Finder)** | Interactive tool to search & inspect GitHub profiles in real-time. | `HTML` `CSS` `JavaScript` `GitHub API` |
-| 💰 **[Expense Tracker](https://github.com/Deeppakk15/Expense-Tracker)** | Track income, expenses, and current balances dynamically. | `HTML` `CSS` `JavaScript` |
-
----
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeppakk15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Deepak's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeppakk15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeppakk15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ for <b>Deepak Gupta</b></sub>
-</div>
