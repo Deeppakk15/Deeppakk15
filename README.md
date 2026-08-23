@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Gupta" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <p>📍 <b>Greater Noida, India</b> | 📧 <b>sg052551819@gmail.com</b></p>
-  
-  <a href="https://github.com/Deeppakk15">
-    <img src="https://img.shields.io/github/followers/Deeppakk15?label=Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers" />
-  </a>
-</div>
-
 <br />
 
 ### Contribution Snake
