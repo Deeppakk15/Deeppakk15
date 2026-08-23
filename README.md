@@ -12,14 +12,11 @@
 
 <br />
 
-```yaml
-name: Deepak Gupta (Deeppakk15)
-role: Full Stack & Frontend Developer
-location: Greater Noida, India
-tech_stack: React.js · Node.js · Express · MongoDB · JavaScript (ES6+) · Tailwind CSS
-currently_building: Scalable Web Applications & Interactive Dashboards
-goals: Master Full-Stack Architecture & Open Source Contributions
-```
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Deeppakk15/Deeppakk15/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
@@ -62,13 +59,6 @@ goals: Master Full-Stack Architecture & Open Source Contributions
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Deeppakk15/Deeppakk15/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
 
 ### 📊 GitHub Stats
 
